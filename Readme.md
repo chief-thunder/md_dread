@@ -2,7 +2,7 @@
 # Judge Dredd MD5 Bruteforce Demo
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/1/16/Judge_Dredd_%28DC_Thomson%29.jpg" alt="Judge Dredd" width="300">
+    ![Judge Dredd](https://github.com/user-attachments/assets/e52ba8a0-3fec-49e6-a144-4c417e25b596)
 </p>
 
 ## About
