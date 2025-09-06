@@ -2,7 +2,7 @@
 # Judge Dredd MD5 Bruteforce Demo
 
 <p align="center">
-    ![Judge Dredd](https://github.com/user-attachments/assets/e52ba8a0-3fec-49e6-a144-4c417e25b596)
+    https://github.com/user-attachments/assets/e52ba8a0-3fec-49e6-a144-4c417e25b596
 </p>
 
 ## About
