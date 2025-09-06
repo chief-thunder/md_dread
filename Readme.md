@@ -1,8 +1,7 @@
-```markdown
 # Judge Dredd MD5 Bruteforce Demo
 
 <p align="center">
-    https://github.com/user-attachments/assets/e52ba8a0-3fec-49e6-a144-4c417e25b596
+        <img src="https://github.com/user-attachments/assets/e52ba8a0-3fec-49e6-a144-4c417e25b596" width="300">
 </p>
 
 ## About
