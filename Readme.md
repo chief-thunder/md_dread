@@ -6,7 +6,7 @@
 
 ## About
 
-This program demonstrates how quickly MD5 password hashes can be brute-forced. It is designed for educational purposes to highlight the importance of using strong, secure hashing algorithms and passwords.
+This program demonstrates how quickly MD5 password hashes can be bruteforced. It is designed for educational purposes to highlight the importance of using strong, secure hashing algorithms and passwords.
 
 ## Disclaimer
 
@@ -14,27 +14,31 @@ This project is for educational purposes only. Do not use this tool for maliciou
 
 ## Features
 
-- Demonstrates MD5 hash brute-forcing.
+- Demonstrates MD5 hash bruteforcing.
 - Highlights the importance of secure password practices.
 
 ## Requirements
 
-- Python 3.x
-- Required libraries (see `requirements.txt`)
+- Rust
+- Required libraries (see `Cargo.toml`)
 
 ## Usage
 
 1. Clone the repository:
      ```bash
-     git clone https://github.com/your-repo/judge-dredd-md5-bruteforce.git
+     git clone https://github.com/chief-thunder/md_dread.git
      ```
-2. Install dependencies:
+2. Build the package (compiles the application):
      ```bash
-     pip install -r requirements.txt
+     cargo build
      ```
 3. Run the program:
      ```bash
-     python main.py
+     ./target/debug/md_dread
+     ```
+4. Bruteforce with John the ripper.
+     ```bash
+     john --format=raw-md5 hash.txt
      ```
 
 ## License
